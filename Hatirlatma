@@ -1,2 +1,3 @@
-Dizi oluşturma "int diziAdi[5]; " veya "array<int, 5> diziAdi; "
+Dizi oluşturmak için array kütüphanesi "int diziAdi[5]; " veya "array<int, 5> diziAdi; "
+Vectör oluşturmak için vector kütüphanesi "vector<int> diziAdi(boyut); "
 Dizinin boyutuna erişmek için "sizeof(diziAdi)/sizeof(*diziAdi)" veya "diziAdi.size()"
