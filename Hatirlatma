@@ -1,0 +1,2 @@
+Dizi oluşturma "int diziAdi[5]; " veya "array<int, 5> diziAdi; "
+Dizinin boyutuna erişmek için "sizeof(diziAdi)/sizeof(*diziAdi)" veya "diziAdi.size()"
